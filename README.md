@@ -29,24 +29,6 @@ It provides features like adding employees, updating employee information, delet
 
 ---
 
-## 📂 Project Structure
-
-employee-management-frontend/
-│── public/
-│── src/
-│ ├── components/
-│ │ ├── EmployeeList.jsx
-│ │ ├── AddEmployee.jsx
-│ │ ├── Navbar.jsx
-│ ├── services/
-│ │ ├── employeeService.js
-│ ├── App.jsx
-│ ├── main.jsx
-│── package.json
-│── README.md
-
----
-
 ## ⚙️ Installation & Setup
 
 ### Clone the repository
